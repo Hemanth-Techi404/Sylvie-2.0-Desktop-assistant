@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sylvie - AI Desktop Assistant",
+  "description": "An enterprise-grade AI assistant simulator with system health monitoring, secure automation, job search, and real-time voice interaction powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
